@@ -59,7 +59,7 @@ const Header = () => {
                 <li>
                   <a href="#faq">OpenSea</a>
                 </li>
-                <li className="submenu">
+                {/* <li className="submenu">
                   <a href="# ">Pages +</a>
                   <div className="sub_menu_sect">
                     <ul className="sub_menu_list">
@@ -80,7 +80,7 @@ const Header = () => {
                       </li>
                     </ul>
                   </div>
-                </li>
+                </li> */}
               </ul>
             </div>
             <div className="bithu_menu_btns">
