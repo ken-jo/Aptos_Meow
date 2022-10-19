@@ -1,0 +1,24 @@
+{ 
+    "info": [
+        {
+            "text": "Total Items",
+            "number": "999",
+            "unit": ""
+        }, 
+        {
+            "text": "Total Owners",
+            "number": "99999",
+            "unit": ""
+        }, 
+        {
+            "text": "Floor Price (APTOS)",
+            "number": "999",
+            "unit": ""
+        }, 
+        {
+            "text": "Volume Traded (APTOS)",
+            "number": "25.5",
+            "unit": "k"
+        }
+    ]
+}
